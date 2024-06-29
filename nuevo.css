@@ -1,3 +1,6 @@
 body {
   background-color: blueviolet;
 }
+.caja {
+  display: flex;
+}
